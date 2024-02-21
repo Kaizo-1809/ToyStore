@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "64e4329440df0aeea5e34d5b"
+  },
+  "brandName": "Figure",
+  "modelName": "Voyager Class Dark of The Moon Sentinel Prime",
+  "description": "162 Grams",
+  "price": 500,
+  "image": "https://cdn-amz.woka.io/images/I/81MVdgOcX3L.jpg",
+  "quantity": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e4330740df0aeea5e34d5e"
+  },
+  "brandName": "Figure",
+  "modelName": "Optimus Prime Leader Class Last Knight",
+  "description": "162 Grams",
+  "price": 120,
+  "image": "https://cdn-amz.woka.io/images/I/71yjnOHsMcL.jpg",
+  "quantity": 4,
+  "__v": 0
+}]

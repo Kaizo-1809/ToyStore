@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "64e4319a40df0aeea5e34d4c"
+  },
+  "brandName": "DC",
+  "modelName": "McFarlane - DC Multiverse - Blue Beetle Movie 7\" - Blue Beetle",
+  "description": "Incredibly detailed 7” scale figure based on the DC Multiverse Designed with Ultra Articulation with up to 22 moving parts for full range of posing and play Blue Beetle is featured in his look from the Blue Beetle movie Blue Beetle includes energy rings, energy sword, energy construct and base Includes collectible art card with character art on the front, and character biography on the back. Collect all McFARLANE TOYS DC MULTIVERSE figures",
+  "price": 19.99,
+  "image": "https://m.media-amazon.com/images/I/81u68EMME5L.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+  "quantity": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e431cb40df0aeea5e34d53"
+  },
+  "brandName": "DC",
+  "modelName": "McFarlane - DC Multiverse 7\" - Superman (Future State: Worlds of War)",
+  "description": "Incredibly detailed 7” scale figure based off the DC Multiverse Designed with Ultra Articulation with up to 22 moving parts for full range of posing and play Superman is featured in his gladiatorial attire from his fights on Warworld's Arena Superman includes an axe, shield, and a base Included collectible art card with figure artwork on the front, and character biography on the back",
+  "price": 19.99,
+  "image": "https://m.media-amazon.com/images/I/71lvrmznwXL._AC_SX679_.jpg",
+  "quantity": 5,
+  "__v": 0
+}]

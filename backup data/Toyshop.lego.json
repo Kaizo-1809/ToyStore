@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "64e4310040df0aeea5e34d3e"
+  },
+  "brandName": "Lego",
+  "modelName": "Disney Hocus Pocus: The Sanderson Sisters' Cottage",
+  "description": "A top Halloween gift idea for fantasy-comedy fans, the set features 6 LEGO minifigures, plus a Thackery Binx (in cat form) figure. The characters come with lots of accessory elements to bring Disney Hocus Pocus scenes to life, including a green lightning spell, Dani’s Halloween pumpkin bucket and the broom, mop and vacuum cleaner the witches fly on in the movie",
+  "price": 299.99,
+  "image": "https://www.lego.com/cdn/cs/set/assets/blt6938f9c75fed82e5/21341_Prod.png?format=webply&fit=bounds&quality=70&width=800&height=800&dpr=1.5",
+  "quantity": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e4313840df0aeea5e34d41"
+  },
+  "brandName": "Lego",
+  "modelName": "Chevrolet Corvette 1961",
+  "description": "Open the door to an immersive building project with the LEGO® Icons Chevrolet Corvette 1961 (10321) model building set for adults. Capture the look and feel of Chevrolet’s revered 1961 cabriolet sports car as you assemble each iconic detail piece by piece. Then choose between hard- or open-top and park your creation on display for all to enjoy.  Loaded with original details This impressive replica model comes with an array of authentic features, including an opening hood and trunk, a detailed engine bay with a spinning radiator fan and working tie-rod steering. Remove the roof for access to the detailed interior with brake, clutch and gas pedals, gear shift, radio, rearview mirror and working steering.  Cruise into the zone Discover a space for relaxation with a collectible car model that’s an iconic gift idea for classic car enthusiasts. Check out the inspiring range of LEGO building sets for adults.",
+  "price": 120,
+  "image": "https://www.lego.com/cdn/cs/set/assets/blt2564f1fe0e59bb78/10321.png?format=webply&fit=bounds&quality=70&width=800&height=800&dpr=1.5",
+  "quantity": 10,
+  "__v": 0
+}]
